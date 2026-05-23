@@ -1,5 +1,4 @@
-# 💫 About Me:
-# Hamid<br><br>Offensive Security & AI Security Researcher<br><br>Founder of Linxploit — a cybersecurity initiative focused on offensive security, AI-driven security research, and blockchain security.<br><br>## Areas of Interest<br><br>* Offensive Security<br>* AI Security & Adversarial ML<br>* Blockchain Security<br>* OSINT & Reconnaissance<br>* Hardware Hacking<br>* Linux Systems<br><br>## Tech Stack<br><br>* Python<br>* Linux<br>* Flask<br>* ESP32 / RP2040<br>* Networking<br>* Web Security<br><br>## Current Focus<br><br>* AI Red Teaming<br>* Security Automation<br>* Web Application Security<br>* Wireless Security Research<br><br>## Projects<br><br>* Mindless RedOps<br>* WAF Detector<br>* SSL/TLS Scanner<br>* Directory Fuzzer<br>* ProductTrust AI<br>* ZARI OS<br><br>## Website<br><br>https://linxploit.xyz/founder<br>
+Website<br><br>https://linxploit.xyz/founder<br>
 
 
 ## 🌐 Socials:
