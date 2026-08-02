@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on offensive security & AI security projects<br>👯 Open to cybersecurity and open-source collaborations<br>🤝 Looking for help with advanced exploit development & AI red teaming<br>🌱 Learning blockchain security, reverse engineering & adversarial ML<br>💬 Ask me about Linux, OSINT, networking & Python security tools<br>⚡ Fun fact: Built security projects before having a proper personal setup
+🔭 Working on offensive security & AI security projects<br>👯 Open to cybersecurity and open-source collaborations<br>🤝 Looking for help with advanced exploit development & AI red teaming<br>🌱 Learning blockchain security, reverse engineering & adversarial ML<br>💬 Ask me about Linux, OSINT, networking & Python security tools<br>⚡ Fun fact: Founder & CEO of Linxploit
 
 
 # 💻 Tech Stack:
