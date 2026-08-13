@@ -4,8 +4,8 @@
 
 <table align="center">
   <tr>
-    <td><b>“Exploit code, not people”</b></td>
-    <td><img src="./cat-typing.gif" alt="cat typing" height="70" width="70" /></td>
+    <td><b>Born To Exploit...</b></td>
+    <td><img src="./baghi.jpg" alt="cat typing" height="70" width="70" /></td>
   </tr>
 </table>
 
