@@ -1,16 +1,22 @@
 <!-- ============================================================ -->
-<!--  HEADER: QUOTE + TYPING INTRO                                 -->
+<!--  HEADER                                                       -->
 <!-- ============================================================ -->
 
-<table align="center">
-  <tr>
-    <td><b>Born To Exploit...</b></td>
-  </tr>
-</table>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&pause=1000&color=08878a&lines=Hi,+I'm+Mindless;Founder+%26+CEO+of+Linxploit;Security+Tool+Developer+%7C+Red+Team+Enthusiast;Building+the+Linxploit+X-Suite" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=750&height=70&duration=4000&pause=1000&color=08878A&lines=Mindless;Founder+%26+CEO+of+Linxploit;Security+Researcher+%26+Tool+Developer;Building+Practical%2C+Safe-by-Design+Security+Tools" />
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Founder%20%26%20CEO-Linxploit-08878A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Security%20Tooling-08878A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Building%20in%20Public-08878A?style=flat-square" />
+</p>
+
+<p align="center">
+  <a href="https://linxploit.com"><b>linxploit.com</b></a> &nbsp;·&nbsp;
+  <a href="https://linxploit.com/founder"><b>linxploit.com/founder</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/linxploit"><b>github.com/linxploit</b></a>
+</p>
 
 <br/>
 
@@ -19,34 +25,73 @@
 <!-- ============================================================ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&pause=1000&color=08878a&lines=About+Me" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&center=true&vCenter=true&width=500&height=50&duration=4000&pause=1000&color=08878A&lines=About+Me" />
 </div>
 
 <br/>
 
-<div align="center">
-  <table>
-    <tr>
-      <td style="font-family: 'Courier New', monospace; color: #e6edf3; background: #0d1117; border: 2px solid #08878a; border-radius: 12px; padding: 25px; max-width: 600px;">
-        <h3 style="color: #00ff00; font-weight: bold; margin-top: 0;">&gt; ABOUT ME</h3>
-        <p><b>Role:</b> Founder & CEO of <a href="https://linxploit.com">Linxploit</a></p>
-        <p><b>Current Focus:</b> Building the Linxploit X-Suite — open-source, safe-by-design security tooling for researchers and red teamers</p>
-        <p><b>Philosophy:</b> Every tool ships clean, honest about its limits, and genuinely useful in a real workflow — not a toy</p>
-        <p><b>Collaboration Interests:</b> Cybersecurity researchers, open-source contributors, red teamers, tool builders</p>
-        <p><b>Lab Environment:</b> Kali Linux, custom sandboxes, Python-first tooling</p>
-        <p><b>Find me:</b> <a href="https://linxploit.com">linxploit.com</a> · <a href="https://linxploit.com/founder">linxploit.com/founder</a></p>
-      </td>
-    </tr>
-  </table>
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td style="padding: 24px;">
+
+**I'm Mindless — Founder & CEO of [Linxploit](https://linxploit.com).**
+
+I build security tools. Specifically, tools that stay on the right side of a line a lot of "recon" and "pentest" scripts blur without thinking about it — every release documents exactly what it does and doesn't do, ships with an authorization gate before it touches a target, and is built to survive contact with a real engagement rather than just look good in a demo GIF.
+
+**What I focus on:**
+- Designing and building the **Linxploit toolkit** — open-source, safe-by-design utilities for web application security testing, reconnaissance, and infrastructure assessment
+- Reading and reasoning about the internals most tools skim past — TLS handshakes, HTTP header semantics, CORS origin-validation logic, WHOIS/registry data — well enough to build something that gets the details right, not just the headline feature
+- Writing tools that are honest about their limitations: a detection is a signal for a human to review, not a verdict
+
+**How I work:**
+Every tool I ship starts from the same brief — solve one problem cleanly, explain exactly how it works, and never pretend a passive check is proof of anything. I'd rather release something smaller that's correct than something impressive that's wrong in a way nobody notices until it matters.
+
+**Currently:** building out the Linxploit toolkit, one focused tool at a time, and open-sourcing all of it.
+
+    </td>
+  </tr>
+</table>
 
 <!--
-  TODO: If you'd like a personal photo / logo / GIF next to the About Me
-  card (like the original template had), upload it to this repo and
-  reference it here, e.g.:
+  TODO: drop your own photo/logo/GIF in here if you want one, e.g.:
   <img src="./assets/linxploit-banner.gif" width="200" />
-  Relative image paths only work if the file actually exists in THIS repo.
+  (only works once the image actually exists in this repo)
 -->
+
+<br/>
+
+<!-- ============================================================ -->
+<!--  AREAS OF FOCUS                                               -->
+<!-- ============================================================ -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&center=true&vCenter=true&width=500&height=50&duration=4000&pause=1000&color=08878A&lines=Areas+of+Focus" />
+</div>
+
+<br/>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top" style="padding: 10px;">
+      <b>🔍 Web Application Security</b>
+      <p>XSS reflection analysis, CORS misconfiguration testing, upload-form attack-surface review, HTTP security header auditing.</p>
+    </td>
+    <td width="50%" valign="top" style="padding: 10px;">
+      <b>🌐 Reconnaissance & OSINT</b>
+      <p>Directory & endpoint discovery, domain/WHOIS intelligence, technology stack fingerprinting.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="padding: 10px;">
+      <b>🔐 TLS / PKI</b>
+      <p>Certificate inspection, protocol-support testing, key & signature strength analysis.</p>
+    </td>
+    <td width="50%" valign="top" style="padding: 10px;">
+      <b>🛠️ Tool Development</b>
+      <p>Turning each of the above into clean, documented, open-source CLI tools others can actually rely on.</p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -55,51 +100,66 @@
 <!-- ============================================================ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&pause=1000&color=08878a&lines=ToolBox" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&center=true&vCenter=true&width=500&height=50&duration=4000&pause=1000&color=08878A&lines=Toolbox" />
 </div>
 
 <br/>
 
-<p align="left">
-  <!-- Development Tools -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" height="40"/></a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" height="40"/></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" height="40"/></a>
-  <a href="https://www.learn-c.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="c" height="40"/></a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" height="40"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" height="40"/></a>
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" height="40"/></a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" height="40"/></a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" height="40"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" height="40"/></a>
+<p align="center"><b>Languages & Development</b></p>
+<p align="center">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" height="36"/></a>
+  <a href="https://www.learn-c.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="c" height="36"/></a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" height="36"/></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash" height="36"/></a>
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" height="36"/></a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" height="36"/></a>
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" height="36"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" height="36"/></a>
+</p>
 
-  <!-- Cybersecurity Tools -->
-  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="burpsuite" height="40"/></a>
-  <a href="https://nmap.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Nmap-0E83C8?style=for-the-badge&logo=nmap&logoColor=white" alt="nmap" height="40"/></a>
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="wireshark" height="40"/></a>
-  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="kali" height="40"/></a>
-  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="metasploit" height="40"/></a>
-  <a href="https://www.shodan.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Shodan-FF3300?style=for-the-badge&logo=shodan&logoColor=white" alt="shodan" height="40"/></a>
-  <a href="https://github.com/owasp-amass/amass" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Amass-2C5BB4?style=for-the-badge&logo=owasp&logoColor=white" alt="amass" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" height="40"/></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" height="40"/></a>
-  <a href="https://www.elastic.co/elasticsearch/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="elasticsearch" height="40"/></a>
-  <a href="https://wazuh.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Wazuh-1185FE?style=for-the-badge&logo=wazuh&logoColor=white" alt="wazuh" height="40"/></a>
+<p align="center"><b>Platforms & Environment</b></p>
+<p align="center">
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" height="36"/></a>
+  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="kali" height="36"/></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" height="36"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" height="36"/></a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" height="36"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode" height="36"/></a>
+</p>
+
+<p align="center"><b>Security & Offensive Tooling</b></p>
+<p align="center">
+  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="burpsuite" height="36"/></a>
+  <a href="https://nmap.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Nmap-0E83C8?style=for-the-badge&logo=nmap&logoColor=white" alt="nmap" height="36"/></a>
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="wireshark" height="36"/></a>
+  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="metasploit" height="36"/></a>
+  <a href="https://www.shodan.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Shodan-FF3300?style=for-the-badge&logo=shodan&logoColor=white" alt="shodan" height="36"/></a>
+  <a href="https://github.com/owasp-amass/amass" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Amass-2C5BB4?style=for-the-badge&logo=owasp&logoColor=white" alt="amass" height="36"/></a>
+</p>
+
+<p align="center"><b>Data & Monitoring</b></p>
+<p align="center">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" height="36"/></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" height="36"/></a>
+  <a href="https://www.elastic.co/elasticsearch/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="elasticsearch" height="36"/></a>
+  <a href="https://wazuh.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Wazuh-1185FE?style=for-the-badge&logo=wazuh&logoColor=white" alt="wazuh" height="36"/></a>
 </p>
 
 <hr/>
 
 <!-- ============================================================ -->
-<!--  FEATURED PROJECTS — THE LINXPLOIT X-SUITE                   -->
+<!--  OPEN SOURCE WORK                                             -->
 <!-- ============================================================ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&pause=1000&color=08878a&lines=Featured+Projects" alt="Featured Projects" />
-  <br/><br/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&center=true&vCenter=true&width=500&height=50&duration=4000&pause=1000&color=08878A&lines=Open+Source+Work" alt="Open Source Work" />
+</div>
 
+<p align="center">A selection of tools built and released under Linxploit — each one open-source, documented, and scoped to a single problem done properly.</p>
+
+<br/>
+
+<div align="center">
   <p align="center">
     <a href="https://github.com/linxploit/Linxploit-sectools">
       <img src="https://gh-readme-stats.vercel.app/api/pin/?username=linxploit&repo=Linxploit-sectools&theme=tokyonight&bg_color=0d1117&title_color=08878a&text_color=70a5fd&icon_color=bf91f3" width="350px" height="130px" alt="Linxploit SecTools" />
@@ -153,40 +213,23 @@
 </div>
 
 <!--
-  NOTE: These pin cards only render correctly once each repo actually
-  exists under github.com/linxploit with the exact name used in the
-  &repo= parameter above. Push each tool's repo before/soon after
-  publishing this README so the cards don't show "repo not found."
+  NOTE: pin cards render correctly only once each repo exists under
+  github.com/linxploit with the exact name in &repo= above.
 -->
+
+<p align="center">
+  <a href="https://github.com/linxploit?tab=repositories"><b>→ See all repositories</b></a>
+</p>
 
 <hr/>
 
 <!-- ============================================================ -->
-<!--  CONNECT                                                     -->
+<!--  CTF & ACHIEVEMENTS                                          -->
 <!-- ============================================================ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&pause=1000&color=08878a&lines=Connect" alt="Connect" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&center=true&vCenter=true&width=500&height=50&duration=4000&pause=1000&color=08878A&lines=CTF+%26+Achievements" alt="CTF & Achievements" />
 </div>
-
-<br/>
-
-<table align="center" style="border: 1px solid #08878a; border-radius: 12px; background: #0d1117; max-width: 700px; padding: 15px;">
-  <tr>
-    <td align="center" style="padding: 12px;">
-      <a href="https://linxploit.com" target="_blank" style="color: #08878a; text-decoration: none;">
-        <b>🌐 Linxploit — linxploit.com</b>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 12px;">
-      <a href="https://linxploit.com/founder" target="_blank" style="color: #08878a; text-decoration: none;">
-        <b>👤 Founder Portfolio — linxploit.com/founder</b>
-      </a>
-    </td>
-  </tr>
-</table>
 
 <br/>
 
@@ -200,16 +243,31 @@
   </a>
 </p>
 
-<!--
-  NOTE on the HackTheBox badge: HTB migrated profiles to UUID-based URLs
-  (profile.hackthebox.com/profile/<uuid>), and the old dynamic badge image
-  endpoint (hackthebox.com/badge/image/<numeric-id>) was tied to the legacy
-  numeric-ID profile system — it's not reliable for UUID profiles anymore.
-  The static shields.io badge above links straight to your real profile and
-  will always render correctly. If you want the live/dynamic HTB stats
-  badge instead, open your HTB profile > Share/Embed, copy the embed HTML
-  it gives you, and send it over — I'll swap it in directly.
--->
+<hr/>
+
+<!-- ============================================================ -->
+<!--  CONNECT                                                      -->
+<!-- ============================================================ -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&center=true&vCenter=true&width=500&height=50&duration=4000&pause=1000&color=08878A&lines=Connect" alt="Connect" />
+</div>
+
+<br/>
+
+<p align="center">
+  <a href="https://linxploit.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-linxploit.com-08878A?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://linxploit.com/founder" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Founder%20Page-08878A?style=for-the-badge&logo=aboutdotme&logoColor=white" />
+  </a>
+  <a href="https://github.com/linxploit" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-linxploit-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">Open an issue on any repo if you have questions about a tool — feedback and contributions are always welcome.</p>
 
 <hr/>
 
@@ -218,7 +276,7 @@
 <!-- ============================================================ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&pause=1000&color=08878a&lines=My+GitHub+Stats" alt="My GitHub Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&center=true&vCenter=true&width=500&height=50&duration=4000&pause=1000&color=08878A&lines=GitHub+Stats" alt="GitHub Stats" />
 </div>
 
 <br/>
@@ -231,42 +289,28 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&pause=1000&color=08878a&lines=Top+Languages" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
   <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=linxploit&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages Chart" />
 </div>
-
-<br/>
-
-<p align="center"><b>Feel free to open an issue on any repo if you have questions about a tool — feedback and contributions are always welcome.</b></p>
 
 <hr/>
 
 <!-- ============================================================ -->
-<!--  VISITOR COUNT & TROPHIES                                   -->
+<!--  FOOTER                                                      -->
 <!-- ============================================================ -->
-
-<h3 align="center">
-  You are my &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/linxploit">
-    <img src="https://count.getloli.com/@linxploit?theme=asoul" alt="linxploit visits" />
-  </a>
-  &nbsp;&nbsp;&nbsp;guest. Thank You.
-</h3>
 
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=linxploit&theme=discord&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=linxploit&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=linxploit&label=Profile%20views&color=08878A&style=flat" alt="Profile views" />
   &nbsp;&nbsp;
   <a href="https://github.com/linxploit?tab=followers">
-    <img src="https://img.shields.io/github/followers/linxploit?style=flat&logo=github&label=Followers" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/linxploit?style=flat&logo=github&label=Followers&color=08878A" alt="GitHub followers" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/linxploit">
+    <img src="https://count.getloli.com/@linxploit?theme=asoul" alt="linxploit visits" />
   </a>
 </p>
 
