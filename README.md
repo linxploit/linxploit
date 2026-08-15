@@ -1,3 +1,6 @@
+<!-- ============================================================ -->
+<!--  HEADER                                                       -->
+<!-- ============================================================ -->
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=750&height=70&duration=4000&pause=1000&color=08878A&lines=Mindless;Founder+%26+CEO+of+Linxploit;Security+Researcher+%26+Tool+Developer;Building+Practical%2C+Safe-by-Design+Security+Tools" />
@@ -17,6 +20,12 @@
 
 <br/>
 
+<p align="center">
+  <img src="./linxploit.gif" width="180" alt="Linxploit" />
+</p>
+
+<br/>
+
 <!-- ============================================================ -->
 <!--  ABOUT ME                                                     -->
 <!-- ============================================================ -->
@@ -27,30 +36,21 @@
 
 <br/>
 
-<table align="center" width="100%">
-  <tr>
-    <td style="padding: 24px;">
-
 **I'm Mindless — Founder & CEO of [Linxploit](https://linxploit.com).**
 
 I build security tools. Specifically, tools that stay on the right side of a line a lot of "recon" and "pentest" scripts blur without thinking about it — every release documents exactly what it does and doesn't do, ships with an authorization gate before it touches a target, and is built to survive contact with a real engagement rather than just look good in a demo GIF.
 
 **What I focus on:**
+
 - Designing and building the **Linxploit toolkit** — open-source, safe-by-design utilities for web application security testing, reconnaissance, and infrastructure assessment
 - Reading and reasoning about the internals most tools skim past — TLS handshakes, HTTP header semantics, CORS origin-validation logic, WHOIS/registry data — well enough to build something that gets the details right, not just the headline feature
 - Writing tools that are honest about their limitations: a detection is a signal for a human to review, not a verdict
 
 **How I work:**
+
 Every tool I ship starts from the same brief — solve one problem cleanly, explain exactly how it works, and never pretend a passive check is proof of anything. I'd rather release something smaller that's correct than something impressive that's wrong in a way nobody notices until it matters.
 
 **Currently:** building out the Linxploit toolkit, one focused tool at a time, and open-sourcing all of it.
-
-    </td>
-  </tr>
-</table>
-
-<img src="./linxploit.gif" width="200" />
-
 
 <br/>
 
@@ -64,28 +64,10 @@ Every tool I ship starts from the same brief — solve one problem cleanly, expl
 
 <br/>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top" style="padding: 10px;">
-      <b>🔍 Web Application Security</b>
-      <p>XSS reflection analysis, CORS misconfiguration testing, upload-form attack-surface review, HTTP security header auditing.</p>
-    </td>
-    <td width="50%" valign="top" style="padding: 10px;">
-      <b>🌐 Reconnaissance & OSINT</b>
-      <p>Directory & endpoint discovery, domain/WHOIS intelligence, technology stack fingerprinting.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" style="padding: 10px;">
-      <b>🔐 TLS / PKI</b>
-      <p>Certificate inspection, protocol-support testing, key & signature strength analysis.</p>
-    </td>
-    <td width="50%" valign="top" style="padding: 10px;">
-      <b>🛠️ Tool Development</b>
-      <p>Turning each of the above into clean, documented, open-source CLI tools others can actually rely on.</p>
-    </td>
-  </tr>
-</table>
+| | |
+|---|---|
+| **🔍 Web Application Security**<br/>XSS reflection analysis, CORS misconfiguration testing, upload-form attack-surface review, HTTP security header auditing. | **🌐 Reconnaissance & OSINT**<br/>Directory & endpoint discovery, domain/WHOIS intelligence, technology stack fingerprinting. |
+| **🔐 TLS / PKI**<br/>Certificate inspection, protocol-support testing, key & signature strength analysis. | **🛠️ Tool Development**<br/>Turning each of the above into clean, documented, open-source CLI tools others can actually rely on. |
 
 <br/>
 
