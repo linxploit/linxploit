@@ -21,7 +21,7 @@
 <br/>
 
 <p align="center">
-  <img src="./linxploit.gif" width="180" alt="Linxploit" />
+  <img src="./linxploit1.gif" width="180" alt="Linxploit" />
 </p>
 
 <br/>
