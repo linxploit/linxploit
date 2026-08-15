@@ -3,7 +3,7 @@
 <!-- ============================================================ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=750&height=70&duration=4000&pause=1000&color=08878A&lines=Mindless;Founder+%26+CEO+of+Linxploit;Security+Researcher+%26+Tool+Developer;Practical%2C+Safe-by-Design+Security+Tools" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=750&height=70&duration=4000&pause=1000&color=08878A&lines=Mindless;Founder+%26+CEO+of+Linxploit;Security+Researcher+%26+Tool+Developer;Building+Practical+Security+Tools" />
 </div>
 
 <p align="center">
