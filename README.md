@@ -49,11 +49,8 @@ Every tool I ship starts from the same brief — solve one problem cleanly, expl
   </tr>
 </table>
 
-<!--
-  TODO: drop your own photo/logo/GIF in here if you want one, e.g.:
-  <img src="./assets/linxploit-banner.gif" width="200" />
-  (only works once the image actually exists in this repo)
--->
+<img src="./linxploit.gif" width="200" />
+
 
 <br/>
 
