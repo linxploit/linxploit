@@ -1,6 +1,3 @@
-<!-- ============================================================ -->
-<!--  HEADER                                                       -->
-<!-- ============================================================ -->
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=750&height=70&duration=4000&pause=1000&color=08878A&lines=Mindless;Founder+%26+CEO+of+Linxploit;Security+Researcher+%26+Tool+Developer;Building+Practical%2C+Safe-by-Design+Security+Tools" />
@@ -173,22 +170,22 @@ Every tool I ship starts from the same brief — solve one problem cleanly, expl
     <a href="https://github.com/linxploit/waf-detector">
       <img src="https://gh-readme-stats.vercel.app/api/pin/?username=linxploit&repo=waf-detector&theme=tokyonight&bg_color=0d1117&title_color=08878a&text_color=70a5fd&icon_color=bf91f3" width="350px" height="130px" alt="WAF Detector" />
     </a>
-    <a href="https://github.com/linxploit/reflectx">
+    <a href="https://github.com/linxploit/reflect-x">
       <img src="https://gh-readme-stats.vercel.app/api/pin/?username=linxploit&repo=reflectx&theme=tokyonight&bg_color=0d1117&title_color=08878a&text_color=70a5fd&icon_color=bf91f3" width="350px" height="130px" alt="ReflectX" />
     </a>
   </p>
 
   <p align="center">
-    <a href="https://github.com/linxploit/headerx">
+    <a href="https://github.com/linxploit/header-x">
       <img src="https://gh-readme-stats.vercel.app/api/pin/?username=linxploit&repo=headerx&theme=tokyonight&bg_color=0d1117&title_color=08878a&text_color=70a5fd&icon_color=bf91f3" width="350px" height="130px" alt="HeaderX" />
     </a>
-    <a href="https://github.com/linxploit/uploadx">
+    <a href="https://github.com/linxploit/upload-x">
       <img src="https://gh-readme-stats.vercel.app/api/pin/?username=linxploit&repo=uploadx&theme=tokyonight&bg_color=0d1117&title_color=08878a&text_color=70a5fd&icon_color=bf91f3" width="350px" height="130px" alt="UploadX" />
     </a>
   </p>
 
   <p align="center">
-    <a href="https://github.com/linxploit/pathx">
+    <a href="https://github.com/linxploit/path-x">
       <img src="https://gh-readme-stats.vercel.app/api/pin/?username=linxploit&repo=pathx&theme=tokyonight&bg_color=0d1117&title_color=08878a&text_color=70a5fd&icon_color=bf91f3" width="350px" height="130px" alt="PathX" />
     </a>
     <a href="https://github.com/linxploit/cors-x">
