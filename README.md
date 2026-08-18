@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <a href="https://linxploit.com"><b>linxploit.com</b></a> &nbsp;·&nbsp;
-  <a href="https://linxploit.com/founder"><b>linxploit.com/founder</b></a> &nbsp;·&nbsp;
-  <a href="https://github.com/linxploit"><b>github.com/linxploit</b></a>
+  <a href="https://linxploit.com"><b>Linxploit</b></a> &nbsp;·&nbsp;
+  <a href="https://linxploit.com/founder"><b>Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/hamid-maaz/"><b>Linkedin</b></a>
 </p>
 
 <br/>
